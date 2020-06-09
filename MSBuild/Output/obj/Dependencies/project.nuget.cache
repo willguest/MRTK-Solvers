@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5njoAsxSt+D5sqVkh1mliQorCbyHPDuPfd2/9THs9fP/TI6LBlECAcGIvjnsWk5WgcIH5BswlHT1c8JbIyYw+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\16102434\\Source\\Repos\\Solvers\\Assets\\MRTK_Solvers.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\16102434\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1045\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1045.nupkg.sha512",
+    "C:\\Users\\16102434\\.nuget\\packages\\msbuildforunity\\0.9.1-123842\\msbuildforunity.0.9.1-123842.nupkg.sha512",
+    "C:\\Users\\16102434\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
